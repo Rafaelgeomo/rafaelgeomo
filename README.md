@@ -1,4 +1,6 @@
-### E ai! Eu sou Rafael Jeronymo - Estudante de Sistemas para Internet
+### Bem vindo!!! 
+
+Eu sou Rafael Jeronymo - Estudante de Sistemas para Internet
 
 <div>
   <a href="https://github.com/Rafaelgeomo">
