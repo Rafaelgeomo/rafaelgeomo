@@ -25,6 +25,8 @@
     
 </div>
 
+![Snake animation](https://github.com/rafaelgeomo/rafaelgeomo/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
